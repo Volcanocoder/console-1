@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sRxnvwsyerbMJ7S3n6J86ochJ7ZcFVAvTe0xwOiXV08MGbpR+3zFkRnMTJWTCTMp3HtalScz8pSk4b7s7Eatuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ilisha-5\\source\\repos\\ConsoleApp8\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ilisha-5\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
